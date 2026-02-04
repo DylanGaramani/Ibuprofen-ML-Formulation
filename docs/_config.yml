@@ -1,4 +1,4 @@
 title: "Ibuprofen ML – Reproducibility"
-description: "Code + data + workflow for the ibuprofen formulation ML manuscript."
+description: "Open scripts and raw data for a machine-learning study of ibuprofen formulations."
 theme: minima
 markdown: kramdown
