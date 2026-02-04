@@ -42,7 +42,7 @@ The approaches presented here contribute to a deeper understanding of rational f
 
 ## Reproducibility
 
-Running the full pipeline regenerates all figures and tables reported in the manuscript.
+Running the full pipeline regenerates all figures and tables reported in the paper.
 
 
 ## License
