@@ -2,7 +2,6 @@
 
 Reproducible code and raw data supporting a retrospective machine-learning analysis of immediate-release ibuprofen formulations.
 
-## Associated manuscript
 
 **Rational formulation design through retrospective machine learning methodology:  
 Case study ibuprofen**
